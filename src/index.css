@@ -1,0 +1,49 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  :root {
+    --color-wine: #8B1E3F;
+    --color-peach: #F4A582;
+    --color-sand: #F3E9DC;
+    --color-cream: #FFF9F3;
+    --color-sage: #8FAF9A;
+    --color-charcoal: #2A1E22;
+  }
+
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    -webkit-tap-highlight-color: transparent;
+    background-color: #F7F2EC;
+    color: #2A1E22;
+  }
+
+  h1, h2, h3, .font-display {
+    font-family: 'Fraunces', Georgia, serif;
+    font-optical-sizing: auto;
+  }
+}
+
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Desktop device frame */
+@media (min-width: 640px) {
+  .app-frame {
+    box-shadow: 0 25px 60px -15px rgba(139, 30, 63, 0.18), 0 0 0 1px rgba(139, 30, 63, 0.08);
+  }
+}
+
+@keyframes pulseSlow {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.85; transform: scale(1.03); }
+}
+
+.animate-pulse-slow {
+  animation: pulseSlow 3s ease-in-out infinite;
+}

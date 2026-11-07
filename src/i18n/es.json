@@ -1,0 +1,684 @@
+{
+  "brand": {
+    "name": "Ligera",
+    "tagline": "Caminata y Pilates en Casa para Mujeres 35+",
+    "subtitle": "Muévete a tu ritmo, cuida tus articulaciones y recupera tu ligereza."
+  },
+  "common": {
+    "continue": "Continuar",
+    "back": "Atrás",
+    "skip": "Omitir",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "close": "Cerrar",
+    "loading": "Cargando...",
+    "error": "Ocurrió un error. Inténtalo nuevamente.",
+    "yes": "Sí",
+    "no": "No",
+    "day": "día",
+    "days": "días",
+    "month": "mes",
+    "months": "meses",
+    "week": "semana",
+    "weeks": "semanas",
+    "min": "min",
+    "today": "Hoy",
+    "per_day": "al día",
+    "active": "Activo",
+    "locked": "Desbloquear",
+    "included": "Incluido en tu plan"
+  },
+  "quiz": {
+    "progress_label": "Paso {{current}} de {{total}}",
+    "single_select_hint": "Selecciona una opción para avanzar",
+    "multi_select_hint": "Puedes seleccionar una o más opciones",
+    "validation": {
+      "bmi_too_low": "Por tu salud y bienestar, tu peso objetivo debe ser saludable (IMC mínimo de 18.5). Por favor ajusta tu peso objetivo.",
+      "name_required": "Por favor escribe tu nombre para personalizar tu plan.",
+      "weight_invalid": "Por favor ingresa un peso válido.",
+      "height_invalid": "Por favor ingresa una altura válida."
+    },
+    "steps": {
+      "primary_goal": {
+        "title": "¿Cuál es tu objetivo principal?",
+        "subtitle": "Diseñaremos tu rutina diaria de acuerdo con lo que tu cuerpo necesita hoy."
+      },
+      "age_range": {
+        "title": "¿Cuál es tu rango de edad?",
+        "subtitle": "A partir de los 35 años, el metabolismo y las hormonas requieren un enfoque suave y consistente."
+      },
+      "current_body_type": {
+        "title": "¿Cuál es tu tipo de silueta actual?",
+        "subtitle": "Esto nos ayuda a calibrar la distribución de ejercicios."
+      },
+      "target_body_type": {
+        "title": "¿Qué silueta deseas alcanzar?",
+        "subtitle": "Enfocaremos las rutinas en las zonas que más te interesan estilizar."
+      },
+      "target_zones": {
+        "title": "¿Qué zonas de tu cuerpo deseas trabajar más?",
+        "subtitle": "Selecciona todas las que apliquen a tu objetivo."
+      },
+      "activity_level": {
+        "title": "¿Cómo describirías tu nivel de actividad física actual?",
+        "subtitle": "No te preocupes si llevas tiempo sin hacer ejercicio: empezamos sin impacto."
+      },
+      "workout_preference": {
+        "title": "¿Qué tipo de movimiento prefieres hacer en casa?",
+        "subtitle": "Todos son amables con tus articulaciones y se hacen sin equipo costoso."
+      },
+      "daily_time": {
+        "title": "¿Cuánto tiempo tienes disponible cada día?",
+        "subtitle": "La constancia de pocos minutos supera cualquier entrenamiento agotador."
+      },
+      "limitations": {
+        "title": "¿Tienes alguna molestia o limitación física?",
+        "subtitle": "Adaptamos automáticamente cada ejercicio para cuidar tus rodillas y espalda."
+      },
+      "inter1": {
+        "title": "Cuidamos tu cuerpo"
+      },
+      "last_ideal_weight": {
+        "title": "¿Cuándo fue la última vez que te sentiste en tu peso ideal?",
+        "subtitle": "Tu cuerpo tiene memoria y podemos reactivar tu bienestar paso a paso."
+      },
+      "sleep_hours": {
+        "title": "¿Cómo es tu descanso durante la noche?",
+        "subtitle": "El descanso regula las hormonas del apetito y el estrés (cortisol)."
+      },
+      "water_intake": {
+        "title": "¿Cuánta agua tomas habitualmente al día?",
+        "subtitle": "Una buena hidratación apoya la flexibilidad articular y la energía."
+      },
+      "energy_level": {
+        "title": "¿Cómo sientes tus niveles de energía durante el día?",
+        "subtitle": "Queremos que te sientas con vitalidad desde la mañana hasta la noche."
+      },
+      "habits": {
+        "title": "¿Te identificas con alguno de estos hábitos cotidianos?",
+        "subtitle": "Identificar detonantes nos permite ofrecerte alternativas amables."
+      },
+      "inter2": {
+        "title": "Pilates de pared y caminata"
+      },
+      "motivating_event": {
+        "title": "¿Tienes algún evento especial que te motive?",
+        "subtitle": "Opcional: podemos estimar tus avances para esa fecha."
+      },
+      "measurements": {
+        "title": "Tus medidas actuales y meta",
+        "subtitle": "Para calcular con rigor tu ritmo de progreso seguro y sostenible."
+      },
+      "inter3": {
+        "title": "Todo listo"
+      },
+      "user_name": {
+        "title": "¿Cómo te llamas?",
+        "subtitle": "Queremos personalizar tu experiencia y acompañarte por tu nombre.",
+        "hint": "Escribe tu primer nombre"
+      }
+    },
+    "options": {
+      "goal": {
+        "weight_loss": "Bajar de peso de forma sostenible",
+        "toning": "Tonificar brazos, abdomen y piernas",
+        "more_energy": "Tener más energía y vitalidad",
+        "relieve_back_pain": "Aliviar dolor de espalda y articulaciones"
+      },
+      "age": {
+        "35_44": "35 a 44 años",
+        "45_54": "45 a 54 años",
+        "55_plus": "55 años o más"
+      },
+      "silhouette": {
+        "rectangle": "Rectangular (medidas similares)",
+        "pear": "Pera (curvas pronunciadas en caderas)",
+        "hourglass": "Reloj de arena (cintura marcada)",
+        "apple": "Manzana (concentración en abdomen)"
+      },
+      "target_silhouette": {
+        "toned": "Estilizada y firme",
+        "curvy_toned": "Curvilínea con tono muscular",
+        "lean": "Ligera, ágil y tonificada",
+        "balanced": "Proporcionada y con buena postura"
+      },
+      "zones": {
+        "abdomen": "Abdomen y zona media",
+        "legs": "Piernas y muslos",
+        "glutes": "Glúteos firmes",
+        "arms": "Brazos firmes sin flacidez",
+        "back": "Espalda y postura estilizada"
+      },
+      "activity": {
+        "sedentary": "Sedentaria",
+        "sedentary_desc": "La mayor parte del día sentada o en reposo",
+        "light_walking": "Caminata ligera",
+        "light_walking_desc": "Pasos cotidianos en casa o recados",
+        "occasional_active": "Activa de vez en cuando",
+        "occasional_active_desc": "1 o 2 veces por semana hago alguna actividad",
+        "regular_training": "Entreno con frecuencia",
+        "regular_training_desc": "3 o más veces por semana"
+      },
+      "preference": {
+        "walking": "Caminata en casa",
+        "wall_pilates": "Pilates en la pared",
+        "chair_pilates": "Pilates en silla",
+        "mix_all": "Una mezcla variada de todo"
+      },
+      "time": {
+        "10_min": "10 minutos",
+        "15_min": "15 minutos",
+        "20_min": "20 minutos",
+        "30_min": "30 minutos",
+        "quick": "Rápido y efectivo",
+        "ideal": "El tiempo recomendado para comenzar",
+        "complete": "Rutina completa con estiramiento",
+        "intensive": "Entrenamiento profundo a tu ritmo"
+      },
+      "limitations": {
+        "knees": "Rodillas sensibles",
+        "knees_desc": "Evitaremos sentadillas profundas o impactos",
+        "back": "Dolor lumbar o de espalda",
+        "back_desc": "Priorizaremos soporte mural y fortalecimiento suave",
+        "neck_shoulders": "Tensión en cuello y hombros",
+        "neck_desc": "Movilidad suave y descompresión postural",
+        "wrists": "Molestia en muñecas",
+        "wrists_desc": "Soporte en antebrazos o pared",
+        "none": "Ninguna limitación",
+        "none_desc": "Puedo realizar todos los movimientos sugeridos"
+      },
+      "ideal_weight": {
+        "less_1_year": "Hace menos de 1 año",
+        "1_3_years": "Hace 1 a 3 años",
+        "more_3_years": "Hace más de 3 años",
+        "never": "Aún no he alcanzado mi peso ideal"
+      },
+      "sleep": {
+        "under_6": "Menos de 6 horas",
+        "6_7": "Entre 6 y 7 horas",
+        "7_8": "Entre 7 y 8 horas reparadoras",
+        "interrupted": "Sueño interrumpido o me despierto con frecuencia"
+      },
+      "water": {
+        "under_1l": "Menos de 1 litro",
+        "1_2l": "Entre 1 y 2 litros",
+        "over_2l": "Más de 2 litros diarios"
+      },
+      "energy": {
+        "wake_tired": "Me despierto sintiéndome cansada",
+        "afternoon_crash": "Siento un bajón fuerte por la tarde",
+        "fluctuating": "Va y viene según el día",
+        "steady": "Buena energía constante"
+      },
+      "habits": {
+        "snack": "Picar entre comidas",
+        "night_sweets": "Ganas de comer dulce por la noche",
+        "anxiety": "Comer por estrés o ansiedad",
+        "skip_breakfast": "Saltarme el desayuno o comer deprisa",
+        "none": "Ninguno de los anteriores"
+      },
+      "events": {
+        "vacation": "Vacaciones o viaje",
+        "wedding": "Boda o fiesta familiar",
+        "birthday": "Mi cumpleaños",
+        "reunion": "Reencuentro de amigas",
+        "no_event": "Quiero sentirme bien conmigo misma"
+      }
+    },
+    "intermediate": {
+      "joint": {
+        "headline": "Tu seguridad articular es nuestra prioridad",
+        "paragraph": "En Ligera, cada movimiento utiliza la pared o la silla como soporte biomecánico. Sin saltos, sin pesas pesadas y sin riesgos para tus rodillas.",
+        "metric_label": "Cero impacto en rodillas y columna",
+        "testimonial": "\"A mis 51 años temía lastimarme las rodillas. Con el soporte en la pared siento cómo trabajo el abdomen sin ningún dolor articular.\""
+      },
+      "science": {
+        "headline": "15 minutos diarios transforman tu composición corporal",
+        "paragraph": "La constancia diaria en sesiones cortas activa el metabolismo en reposo y fortalece el core profundo, ayudando a mujeres de más de 35 a recuperar tonicidad sin agotamiento.",
+        "metric_label": "Hábito fácil de mantener en tu rutina",
+        "testimonial": "\"Pensé que necesitaba horas en el gimnasio. 15 minutos en mi sala antes de bañarme cambiaron mi postura y mi energía por completo.\""
+      },
+      "ready": {
+        "headline": "Estamos calibrando tu programa a tu medida",
+        "paragraph": "Con tus respuestas sobre tus metas, descanso y articulaciones, creamos una progresión que respeta tu tiempo y tu ritmo.",
+        "metric_label": "Adaptado exactamente a tus necesidades",
+        "testimonial": "\"Por primera vez siento que una aplicación fue hecha pensando en el cuerpo de una mujer real y no en una atleta de 20 años.\""
+      }
+    },
+    "measurements": {
+      "units_system": "Sistema de medidas",
+      "metric": "Métrico (kg / cm)",
+      "imperial": "Imperial (lb / ft)",
+      "height": "Tu altura",
+      "current_weight": "Tu peso actual",
+      "target_weight": "Tu peso objetivo",
+      "height_cm": "cm",
+      "height_ft": "ft",
+      "height_in": "in",
+      "weight_kg": "kg",
+      "weight_lb": "lb",
+      "current_bmi": "IMC actual estimado",
+      "target_bmi": "IMC objetivo estimado",
+      "healthy_notice": "Un ritmo seguro es de hasta ~0.7 kg por semana."
+    },
+    "event_selector": {
+      "has_date": "¿Tienes una fecha específica?",
+      "date_placeholder": "Selecciona la fecha aproximada"
+    }
+  },
+  "analyzing": {
+    "title": "Analizando tus respuestas...",
+    "subtitle": "Estamos diseñando tu programa personalizado de caminata y pilates en casa.",
+    "steps": [
+      "Analizando tu metabolismo y rango de edad...",
+      "Adaptando la carga articular para proteger rodillas y columna...",
+      "Calibrando zonas objetivo y preferencia de movimiento...",
+      "Diseñando la curva de proyección de peso saludable...",
+      "Finalizando tu plan de 28 días con progresión suave..."
+    ],
+    "popup_question": {
+      "badge": "Pregunta de ajuste",
+      "question": "¿En qué momento del día prefieres hacer tu rutina?",
+      "morning": "Por la mañana (para empezar con energía)",
+      "evening": "Por la tarde o noche (para relajarme)",
+      "anytime": "Depende de mi día",
+      "confirm": "Guardar preferencia"
+    }
+  },
+  "email": {
+    "badge": "Tu plan personalizado está casi listo",
+    "title": "¿A dónde te enviamos el resumen de tu plan?",
+    "subtitle": "Ingresa tu correo para guardar tu progreso del test y ver tu proyección personalizada de peso.",
+    "input_label": "Correo electrónico",
+    "placeholder": "ejemplo@correo.com",
+    "opt_in": "Deseo recibir consejos de salud articular, recetas y motivación para mujeres 35+.",
+    "privacy_note": "Respetamos tu privacidad. Cero spam y cancelación en un clic.",
+    "cta": "Ver mi plan personalizado",
+    "invalid_email": "Por favor escribe un correo electrónico válido."
+  },
+  "result": {
+    "greeting": "¡Hola, {{name}}! Tu plan personalizado está listo",
+    "subtitle": "Basado en tus respuestas, hemos preparado una rutina de caminata y pilates sin impacto para ti.",
+    "summary_card": {
+      "title": "Tu diagnóstico personalizado",
+      "current_bmi": "IMC actual",
+      "target_bmi": "IMC proyectado",
+      "bmi_category_normal": "Rango saludable",
+      "bmi_category_over": "Oportunidad de mejora",
+      "preferred_movement": "Tipo de rutina",
+      "joint_care": "Cuidado articular",
+      "joint_care_adapted": "100% adaptado a tus articulaciones",
+      "daily_dedication": "Tiempo al día"
+    },
+    "silhouette_comparison": {
+      "title": "Tu transformación proyectada",
+      "current": "Hoy",
+      "projected": "Meta estimada",
+      "notice": "Visualización ilustrativa de progreso y postura"
+    },
+    "chart": {
+      "title": "Tu proyección estimada de peso",
+      "subtitle": "Estimación calculada a un ritmo saludable y sostenible (máximo ~0.7 kg / 1.5 lb por semana).",
+      "current_point": "Peso actual",
+      "target_point": "Peso meta",
+      "event_point": "Tu evento ({{event}})",
+      "estimated_date": "Fecha estimada de meta:",
+      "weeks_label": "{{weeks}} semanas de constancia",
+      "disclaimer": "* Estimación basada en hábitos consistentes de movimiento diario y nutrición equilibrada. Los resultados individuales pueden variar."
+    },
+    "cta": "Ver opciones de mi plan personalizado"
+  },
+  "paywall": {
+    "hero_title": "Tu plan personalizado está listo",
+    "hero_subtitle": "{{name}}, da hoy el primer paso hacia un cuerpo ligero, ágil y sin dolor.",
+    "timer_badge": "Oferta especial de bienvenida expira en:",
+    "timer_expired": "Oferta finalizada. Precios regulares activos.",
+    "before_after_label": "Progresión estimada de 28 días",
+    "benefits_title": "Lo que vas a lograr con tu plan:",
+    "benefits": {
+      "b1": "Rutinas de 10 a 20 minutos sin impacto en rodillas ni espalda.",
+      "b2": "Tonificación progresiva de abdomen, brazos y piernas con soporte de pared o silla.",
+      "b3": "Mayor agilidad, flexibilidad y energía renovada cada mañana.",
+      "b4": "Acompañamiento y seguimiento claro día a día."
+    },
+    "select_plan_title": "Elige la duración de tu plan:",
+    "popular_badge": "MÁS POPULAR",
+    "best_value_badge": "MEJOR VALOR",
+    "per_day_label": "Solo ${{amount}}/día",
+    "intro_label": "Primer período:",
+    "renewal_notice": "Se renueva a ${{price}} {{interval}}. Cancela fácilmente en cualquier momento desde tu cuenta.",
+    "cta_button": "Comenzar mi plan por ${{price}}",
+    "guarantee": {
+      "title": "Garantía de satisfacción de 30 días",
+      "description": "Si sigues tu plan durante 30 días y sientes que no mejoró tu bienestar o movilidad, te reembolsamos tu dinero sin preguntas complicadas."
+    },
+    "badges": {
+      "secure": "Pago seguro SSL 256-bit",
+      "cancel_anytime": "Cancela cuando quieras",
+      "instant_access": "Acceso inmediato"
+    },
+    "faq_title": "Preguntas frecuentes",
+    "testimonials_title": "Lo que dicen mujeres como tú"
+  },
+  "plans": {
+    "m1": {
+      "name": "Plan 1 Mes"
+    },
+    "m3": {
+      "name": "Plan 3 Meses"
+    },
+    "m6": {
+      "name": "Plan 6 Meses"
+    },
+    "intervals": {
+      "month": "cada mes",
+      "three_months": "cada 3 meses",
+      "six_months": "cada 6 meses"
+    },
+    "badges": {
+      "most_popular": "MÁS POPULAR",
+      "best_value": "MEJOR PRECIO"
+    },
+    "features": {
+      "daily_routine": "Rutina diaria de caminata y pilates adaptada",
+      "joint_friendly": "Variaciones especiales para rodillas y espalda",
+      "progress_tracking": "Registro de peso y medidas",
+      "wall_pilates": "Biblioteca completa de pilates en pared y silla",
+      "priority_updates": "Actualizaciones semanales de rutinas",
+      "vip_guide": "Guía exclusiva de postura y movilidad"
+    },
+    "faq": {
+      "q1": "¿Es apto si tengo dolor de rodillas o espalda?",
+      "a1": "Sí, absolutamente. El programa fue diseñado específicamente para mujeres mayores de 35 años y cuenta con adaptaciones de apoyo en pared o silla para evitar sobrecargar las articulaciones.",
+      "q2": "¿Necesito algún equipo o pesas?",
+      "a2": "No necesitas pesas ni aparatos costosos. Solo necesitas una pared despejada, una silla común de tu casa y ropa cómoda.",
+      "q3": "¿Cómo funciona la renovación y cancelación?",
+      "a3": "Tu suscripción se renueva automáticamente al finalizar el período con la tarifa regular acordada. Puedes pausar o cancelar en cualquier momento con un solo clic desde la sección 'Cuenta'.",
+      "q4": "¿Cuánto tiempo debo dedicarle al día?",
+      "a4": "Entre 10 y 20 minutos al día son suficientes. La clave está en la consistencia diaria, no en el agotamiento."
+    },
+    "testimonials": {
+      "carmen": "A mis 48 años pensaba que el dolor de espalda baja era inevitable. Con 15 minutos de caminata y pilates de pared ya no me duele al levantarme.",
+      "mariana": "Lo mejor es que no me lastima las rodillas como correr o los videos de gimnasio. He bajado 8 kg sin pasar hambre ni sufrir.",
+      "patricia": "Es la primera vez que mantengo una rutina por más de 6 semanas seguidas. Me siento con mucha más ligereza y energía."
+    }
+  },
+  "checkout": {
+    "title": "Finalizar tu suscripción",
+    "order_summary": "Resumen de tu pedido",
+    "plan_selected": "Plan seleccionado",
+    "today_charge": "Total a pagar hoy",
+    "recurring_note": "Luego se renueva a ${{price}} {{interval}}. Cancela cuando quieras.",
+    "payment_methods": "Método de pago",
+    "apple_pay": "Pagar con Apple Pay",
+    "google_pay": "Pagar con Google Pay",
+    "or_card": "O paga con tarjeta de crédito / débito",
+    "card_number": "Número de tarjeta",
+    "card_placeholder": "4242 •••• •••• 4242",
+    "card_expiry": "MM / AA",
+    "card_cvc": "CVC",
+    "card_name": "Nombre en la tarjeta",
+    "dev_tools_title": "Opciones de prueba (Modo Desarrollador)",
+    "dev_simulate_fail": "Simular fallo de cobro",
+    "dev_simulate_3ds": "Simular verificación 3D Secure",
+    "pay_button": "Pagar ${{price}} y acceder a mi plan",
+    "processing": "Procesando de forma segura...",
+    "legal_terms": "Al hacer clic en pagar, aceptas el cobro inicial de ${{price}} y la renovación automática periódica. Puedes cancelar tu suscripción en cualquier momento desde tu panel de usuario sin penalizaciones."
+  },
+  "offers": {
+    "header_step": "Paso {{current}} de {{total}} — Personalizando tu plan",
+    "yes_add": "Sí, añadir a mi plan por solo ${{price}}",
+    "no_thanks": "No, gracias. Continuar sin este beneficio.",
+    "one_click_badge": "Acceso en 1 clic — Se añade a tu cuenta",
+    "upsell1": {
+      "badge": "COMPLEMENTO NUTRICIONAL RECOMENDADO",
+      "title": "Plan de Comidas Personalizado para Mujeres 35+",
+      "subtitle": "Acelera tus resultados con recetas latinas fáciles, antiinflamatorias y sin dietas restrictivas.",
+      "description": "El complemento ideal para tus rutinas de caminata y pilates. Menús semanales balanceados, porciones claras y lista de compras para el supermercado.",
+      "bullet1": "Menús semanales fáciles adaptados a tu edad y metabolismo",
+      "bullet2": "Recetas latinas familiares que no te aíslan en casa",
+      "bullet3": "Lista de compras semanal lista para descargar o revisar en el móvil",
+      "bullet4": "Platos que apoyan la digestión y reducen la inflamación"
+    },
+    "upsell2": {
+      "badge": "RETO ESPECIAL GUIADO",
+      "title": "Reto 28 Días: Abdomen Firme y Postura Estilizada",
+      "subtitle": "Un desafío paso a paso con seguimiento diario, medallas de constancia y soporte guiado.",
+      "description": "Una rutina intensificada pero 100% de bajo impacto para tonificar el core profundo y liberar la tensión cervical y dorsal.",
+      "bullet1": "Calendario diario guiado de 28 días con ejercicios exclusivos",
+      "bullet2": "Check-in diario con medallas virtuales de logro",
+      "bullet3": "Enfoque especial en abdomen bajo y corrección postural",
+      "bullet4": "Guía de respiración diafragmática para reducir el estrés"
+    },
+    "downsell": {
+      "badge": "OFERTA ESPECIAL ÚNICA",
+      "title": "Reto 28 Días: Versión Esencial",
+      "subtitle": "No te quedes sin tu reto. Accede a las rutinas principales por la mitad de precio.",
+      "description": "Incluye los 28 entrenamientos esenciales del reto en video y texto guiado, sin los extras descargables.",
+      "bullet1": "28 entrenamientos esenciales para abdomen y postura",
+      "bullet2": "Acceso completo desde cualquier dispositivo",
+      "bullet3": "A mitad de precio solo en esta pantalla"
+    },
+    "crosssell": {
+      "badge": "CUIDADO FACIAL ANTIEDAD",
+      "title": "Yoga Facial y Drenaje Linfático 21 Días",
+      "subtitle": "Solo 5 minutos al día para iluminar tu rostro, definir el cuello y suavizar líneas de expresión.",
+      "description": "Rutinas faciales guiadas por video diseñadas para estimular la microcirculación y el colágeno natural de tu piel.",
+      "bullet1": "21 rutinas de 5 minutos fáciles de hacer frente al espejo",
+      "bullet2": "Técnicas de drenaje linfático para reducir hinchazón matutina",
+      "bullet3": "Ejercicios para definir óvalo facial y tonificar cuello",
+      "bullet4": "Acceso ilimitado para siempre"
+    },
+    "upsell4": {
+      "badge": "ACOMPAÑAMIENTO INTELIGENTE 24/7",
+      "title": "Coach IA Personal Ligera",
+      "subtitle": "Tu entrenadora y consejera personal disponible en tu bolsillo a cualquier hora.",
+      "description": "Resuelve dudas de inmediato, adapta tus ejercicios si un día te sientes cansada y recibe motivación constante basada en tus respuestas.",
+      "bullet1": "Chat 24/7 con memoria de tus objetivos y limitaciones",
+      "bullet2": "Ajuste dinámico de ejercicios según cómo te sientas cada día",
+      "bullet3": "Ideas de comidas y sustitutos saludables en segundos",
+      "bullet4": "Suscripción mensual flexible por solo $7.99/mes"
+    }
+  },
+  "account": {
+    "create_title": "Crea tu cuenta en Ligera",
+    "create_subtitle": "Tu plan ya está activo. Configura tu contraseña para acceder a tus entrenamientos desde cualquier lugar.",
+    "email_label": "Tu correo electrónico",
+    "password_label": "Crea una contraseña segura",
+    "password_placeholder": "Mínimo 6 caracteres",
+    "create_button": "Crear cuenta y comenzar",
+    "already_have_account": "¿Ya tienes una cuenta?",
+    "login_link": "Inicia sesión aquí",
+    "login_title": "Iniciar Sesión",
+    "login_subtitle": "Ingresa con tu correo y contraseña para continuar tu plan.",
+    "login_button": "Entrar a mi cuenta",
+    "no_account": "¿Aún no tienes cuenta?",
+    "start_quiz": "Realizar el quiz"
+  },
+  "onboarding": {
+    "step1": {
+      "title": "¿A qué hora te gustaría recibir tu recordatorio diario?",
+      "subtitle": "Un pequeño aviso a la hora adecuada te ayudará a crear el hábito sin esfuerzo.",
+      "time_label": "Hora sugerida",
+      "save_time": "Guardar horario"
+    },
+    "step2": {
+      "title": "Instala Ligera en tu pantalla de inicio",
+      "subtitle": "Accede en 1 toque sin abrir el navegador, incluso sin buena conexión.",
+      "ios_instructions": "En iPhone: toca el botón Compartir y selecciona 'Agregar al inicio'.",
+      "android_instructions": "En Android o Chrome: toca el botón 'Instalar App' a continuación.",
+      "install_cta": "Instalar aplicación",
+      "installed_notice": "¡App instalada correctamente!"
+    },
+    "step3": {
+      "title": "¡Todo listo para tu primer entrenamiento!",
+      "subtitle": "Tu primera rutina dura solo 10 minutos. Prepárate con ropa cómoda y una pared.",
+      "start_first_workout": "Comenzar Día 1 ahora"
+    }
+  },
+  "app": {
+    "tabs": {
+      "hoy": "Hoy",
+      "entrenar": "Entrenar",
+      "camino": "Camino",
+      "logros": "Logros",
+      "perfil": "Perfil",
+      "entrenos": "Entrenos",
+      "progreso": "Progreso",
+      "planes": "Planes",
+      "cuenta": "Cuenta"
+    },
+    "hoy": {
+      "welcome": "¡Hola, {{name}}!",
+      "day_badge": "Día {{day}} de 28",
+      "today_workout_title": "Entrenamiento de hoy",
+      "duration": "{{minutes}} min",
+      "intensity": "Bajo impacto",
+      "start_workout": "Comenzar rutina",
+      "completed_badge": "¡Completado hoy!",
+      "water_tracker_title": "Hidratación de hoy",
+      "water_glasses": "{{current}} de {{target}} vasos",
+      "add_glass": "+1 vaso (250 ml)",
+      "streak_title": "Racha activa",
+      "streak_days": "{{count}} días seguidos",
+      "modules_unlocked_title": "Tus módulos adicionales",
+      "meal_plan_card": "Plan de comidas semanal",
+      "challenge_card": "Reto 28 días de core",
+      "face_yoga_card": "Yoga facial 21 días",
+      "coach_card": "Coach IA Personal"
+    },
+    "entrenos": {
+      "title": "Biblioteca de entrenamientos",
+      "subtitle": "Selecciona la rutina que mejor se adapte a tu día.",
+      "filters": {
+        "all": "Todos",
+        "walking": "Caminata en casa",
+        "wall_pilates": "Pilates en pared",
+        "chair_pilates": "Pilates en silla",
+        "stretching": "Estiramiento"
+      },
+      "level": "Nivel: Suave",
+      "start": "Ver rutina"
+    },
+    "player": {
+      "exercise_of": "Ejercicio {{current}} de {{total}}",
+      "rest": "Descanso",
+      "next_up": "Siguiente:",
+      "pause": "Pausar",
+      "resume": "Continuar",
+      "skip": "Saltar",
+      "finish": "Terminar entrenamiento",
+      "instructions_title": "Instrucciones de postura:",
+      "limitation_alternative_badge": "Adaptación especial para ti",
+      "limitation_alternative_note": "Modificación suave para proteger tus articulaciones.",
+      "congrats_title": "¡Excelente trabajo, {{name}}!",
+      "congrats_subtitle": "Has completado tu sesión de hoy. Tu cuerpo y tu salud te lo agradecen.",
+      "back_to_hoy": "Volver a Hoy"
+    },
+    "progreso": {
+      "title": "Tu evolución",
+      "subtitle": "Celebra cada pequeño avance en tu bienestar.",
+      "weight_log_title": "Registro de peso",
+      "current_weight": "Peso actual",
+      "weight_lost": "Avance total",
+      "log_new_weight": "Registrar nuevo peso",
+      "weight_input_placeholder": "Ingresa tu peso",
+      "chart_title": "Evolución de peso",
+      "measurements_title": "Medidas corporales (cm / in)",
+      "waist": "Cintura",
+      "hips": "Cadera",
+      "chest": "Pecho",
+      "photos_title": "Fotos de progreso (privadas)",
+      "photos_note": "Se guardan únicamente en tu dispositivo de forma segura."
+    },
+    "planes": {
+      "title": "Tienda y Mejoras",
+      "subtitle": "Amplía tu plan con módulos especializados.",
+      "active_badge": "Activo en tu cuenta",
+      "unlock_button": "Desbloquear por ${{price}}",
+      "subscription_status": "Tu suscripción actual:",
+      "upgrade_plan": "Mejorar a 6 meses (ahorro del 40%)",
+      "upgrade_success": "¡Plan actualizado con éxito!"
+    },
+    "cuenta": {
+      "title": "Mi Cuenta",
+      "profile_section": "Datos personales",
+      "name_label": "Nombre",
+      "email_label": "Correo",
+      "units_label": "Unidades de medida",
+      "reminder_label": "Recordatorio de entrenamiento",
+      "subscription_section": "Tu suscripción",
+      "plan_label": "Plan actual",
+      "next_billing_label": "Próxima renovación",
+      "amount_label": "Monto de renovación",
+      "cancel_subscription": "Cancelar suscripción",
+      "logout": "Cerrar sesión",
+      "retention": {
+        "title": "¿Deseas pausar tu suscripción en lugar de cancelar?",
+        "subtitle": "Sabemos que la vida se complica. Puedes pausar los cobros por 30 días o recibir un 30% de descuento en tu próxima renovación.",
+        "pause_option": "Pausar por 30 días sin costo",
+        "discount_option": "Aceptar 30% de descuento",
+        "confirm_cancel": "Continuar con la cancelación",
+        "keep_plan": "Mantener mi plan",
+        "canceled_notice": "Tu suscripción ha sido cancelada. Mantendrás acceso hasta el final de tu período actual."
+      }
+    },
+    "meal_plan": {
+      "title": "Plan de Comidas Semanal",
+      "week_label": "Semana 1: Menú antiinflamatorio",
+      "day_selector": "Día {{day}}",
+      "breakfast": "Desayuno",
+      "lunch": "Almuerzo",
+      "snack": "Merienda",
+      "dinner": "Cena",
+      "ingredients": "Ingredientes",
+      "preparation": "Preparación paso a paso",
+      "grocery_list_title": "Lista de compras del supermercado",
+      "mark_all": "Marcar todo"
+    },
+    "challenge_28": {
+      "title": "Reto 28 Días: Core y Postura",
+      "subtitle": "Día a día hacia un abdomen tonificado y una espalda sin tensión.",
+      "day_box": "Día {{day}}",
+      "check_in_button": "Check-in de hoy",
+      "checked_in": "¡Día completado!",
+      "medals_title": "Tus medallas de constancia",
+      "medal_7_days": "7 Días de Constancia",
+      "medal_14_days": "Mitad del Reto",
+      "medal_21_days": "Hábito Imparable",
+      "medal_28_days": "Reto Completado"
+    },
+    "face_yoga": {
+      "title": "Yoga Facial 21 Días",
+      "subtitle": "5 minutos diarios de estimulación linfática y tonicidad.",
+      "routine_label": "Rutina {{num}}: {{title}}",
+      "start_routine": "Iniciar sesión de 5 min"
+    },
+    "ai_coach": {
+      "title": "Coach IA Ligera",
+      "subtitle": "Tu acompañante 24/7 en movimiento, bienestar y motivación.",
+      "disclaimer": "Nota: Tu coach ofrece motivación y guía de movimiento suave. Para diagnósticos médicos, dolores agudos o lesiones, consulta siempre con un profesional de la salud.",
+      "input_placeholder": "Pregúntame sobre tus rutinas, recetas o motivación...",
+      "send": "Enviar",
+      "suggested_questions": [
+        "¿Qué ejercicio puedo hacer hoy si me duelen las rodillas?",
+        "¿Qué merienda saludable me recomiendas para la tarde?",
+        "Siento poca motivación hoy, ¿qué puedo hacer?",
+        "¿Cómo ayuda el pilates de pared a mi postura?"
+      ]
+    }
+  },
+  "tracking_debug": {
+    "title": "Panel de Tracking & DataLayer (Debug)",
+    "subtitle": "Eventos capturados para atribución, Meta CAPI y GA4 ecommerce",
+    "utm_params": "Parámetros de atribución guardados:",
+    "events_count": "{{count}} eventos registrados",
+    "clear_events": "Limpiar cola",
+    "copy_json": "Copiar JSON",
+    "copied": "¡Copiado!",
+    "table_event": "Evento",
+    "table_id": "Event ID",
+    "table_time": "Hora",
+    "table_payload": "Carga útil"
+  }
+}

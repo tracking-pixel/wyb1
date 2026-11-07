@@ -1,0 +1,6 @@
+{
+  "name": "Ligera - Caminata y Pilates en Casa",
+  "description": "App de suscripción de caminata y pilates en casa para mujeres de 35+. Planes personalizados, seguimiento y Coach IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

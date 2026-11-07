@@ -1,0 +1,320 @@
+{
+  "programTitle": "Programa Ligera 28 Días",
+  "targetAudience": "Mujeres 35+ caminando y fortaleciendo en casa",
+  "phases": [
+    { "phase": 1, "days": [1, 7], "name": "Activación y Cuidado Articular" },
+    { "phase": 2, "days": [8, 14], "name": "Core Profundo y Quema Amable" },
+    { "phase": 3, "days": [15, 21], "name": "Estilización Mural y Firmeza" },
+    { "phase": 4, "days": [22, 28], "name": "Vitalidad y Fuerza Sin Dolor" }
+  ],
+  "days": [
+    {
+      "dayNumber": 1,
+      "title": "Día 1: Despertar Articular y Caminata Suave",
+      "subtitle": "Conexión cuerpo-mente y postura erguida",
+      "durationMinutes": 12,
+      "restSecBetweenExercises": 15,
+      "focus": "Movilidad y bajo impacto",
+      "exerciseIds": [
+        "ex_walk_rhythm",
+        "ex_wall_pelvic_tilt",
+        "ex_chair_arm_circles",
+        "ex_walk_step_touch",
+        "ex_stretch_chest_opener"
+      ],
+      "coachTip": "Hoy el objetivo no es agotarte, sino avisarle a tus músculos y articulaciones que estamos de vuelta con amor y constancia."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Día 2: Pilates en Pared para Abdomen y Postura",
+      "subtitle": "Activa el transverso abdominal sin forzar el cuello",
+      "durationMinutes": 14,
+      "restSecBetweenExercises": 15,
+      "focus": "Zona media y espalda",
+      "exerciseIds": [
+        "ex_wall_pelvic_tilt",
+        "ex_wall_angel",
+        "ex_chair_core_tuck",
+        "ex_wall_pushup",
+        "ex_stretch_cat_cow_wall"
+      ],
+      "coachTip": "Al presionar la espalda en la pared, exhala suavemente por la boca como si empañaras un vidrio."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Día 3: Pasos Ligeros y Circulación en Piernas",
+      "subtitle": "Drena líquidos retenidos y activa la energía",
+      "durationMinutes": 15,
+      "restSecBetweenExercises": 15,
+      "focus": "Circulación y piernas ligeras",
+      "exerciseIds": [
+        "ex_walk_step_touch",
+        "ex_walk_arm_pump",
+        "ex_wall_calf_press",
+        "ex_wall_leg_lift",
+        "ex_stretch_hamstring_chair"
+      ],
+      "coachTip": "Si pasas mucho tiempo sentada, esta rutina ayuda a que sientas tus piernas livianas de inmediato."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Día 4: Alivio Lumbar y Fortalecimiento en Silla",
+      "subtitle": "Descomprime la columna y fortalece el core",
+      "durationMinutes": 12,
+      "restSecBetweenExercises": 15,
+      "focus": "Espalda y movilidad",
+      "exerciseIds": [
+        "ex_chair_torso_twist",
+        "ex_chair_core_tuck",
+        "ex_chair_arm_circles",
+        "ex_wall_angel",
+        "ex_stretch_chest_opener"
+      ],
+      "coachTip": "La silla es tu mejor aliada para alinear las vértebras sin sobrecargar las caderas."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Día 5: Glúteos y Piernas con Apoyo en la Pared",
+      "subtitle": "Tonifica los músculos que sostienen tu postura",
+      "durationMinutes": 15,
+      "restSecBetweenExercises": 20,
+      "focus": "Fuerza suave de piernas",
+      "exerciseIds": [
+        "ex_walk_rhythm",
+        "ex_wall_sit_gentle",
+        "ex_wall_leg_lift",
+        "ex_wall_calf_press",
+        "ex_stretch_hamstring_chair"
+      ],
+      "coachTip": "Recuerda que no hace falta bajar mucho en la pared: un ángulo suave ya activa tus cuádriceps de forma segura."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Día 6: Caminata con Brazos Tonificados",
+      "subtitle": "Aumenta el gasto calórico de manera amable",
+      "durationMinutes": 14,
+      "restSecBetweenExercises": 15,
+      "focus": "Brazos y ritmo cardíaco suave",
+      "exerciseIds": [
+        "ex_walk_arm_pump",
+        "ex_wall_pushup",
+        "ex_walk_step_touch",
+        "ex_chair_arm_circles",
+        "ex_stretch_cat_cow_wall"
+      ],
+      "coachTip": "Mantén los hombros relajados lejos de las orejas en todo momento para no acumular tensión en el cuello."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Día 7: Estiramiento Profundo y Cierre de Semana 1",
+      "subtitle": "Celebra tu primera semana de constancia",
+      "durationMinutes": 12,
+      "restSecBetweenExercises": 10,
+      "focus": "Recuperación y flexibilidad",
+      "exerciseIds": [
+        "ex_stretch_cat_cow_wall",
+        "ex_wall_angel",
+        "ex_stretch_chest_opener",
+        "ex_stretch_hamstring_chair",
+        "ex_wall_pelvic_tilt"
+      ],
+      "coachTip": "¡Felicidades por completar 7 días! La consistencia ya está creando nuevas conexiones neuromusculares en ti."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Día 8: Caminata Intervalada y Activación Abdominal",
+      "subtitle": "Semana 2: Mayor quema con menor esfuerzo",
+      "durationMinutes": 15,
+      "restSecBetweenExercises": 15,
+      "focus": "Abdomen y metabolismo",
+      "exerciseIds": ["ex_walk_rhythm", "ex_wall_pelvic_tilt", "ex_walk_arm_pump", "ex_stretch_chest_opener"]
+    },
+    {
+      "dayNumber": 9,
+      "title": "Día 9: Pared y Brazos Firmes",
+      "subtitle": "Despídete de la flacidez con soporte mural",
+      "durationMinutes": 14,
+      "restSecBetweenExercises": 15,
+      "focus": "Brazos y hombros",
+      "exerciseIds": ["ex_wall_pushup", "ex_chair_arm_circles", "ex_wall_angel", "ex_stretch_cat_cow_wall"]
+    },
+    {
+      "dayNumber": 10,
+      "title": "Día 10: Caminata en Casa de 15 Minutos",
+      "subtitle": "Paso ligero y respiración sincronizada",
+      "durationMinutes": 15,
+      "restSecBetweenExercises": 15,
+      "focus": "Resistencia aeróbica sin impacto",
+      "exerciseIds": ["ex_walk_step_touch", "ex_walk_arm_pump", "ex_wall_calf_press", "ex_stretch_hamstring_chair"]
+    },
+    {
+      "dayNumber": 11,
+      "title": "Día 11: Pilates de Silla para Core Bajo",
+      "subtitle": "Activa la faja natural que protege tu cintura",
+      "durationMinutes": 15,
+      "restSecBetweenExercises": 20,
+      "focus": "Vientre bajo",
+      "exerciseIds": ["ex_chair_core_tuck", "ex_chair_torso_twist", "ex_wall_pelvic_tilt", "ex_stretch_chest_opener"]
+    },
+    {
+      "dayNumber": 12,
+      "title": "Día 12: Piernas Tonificadas sin Sentadillas Pesadas",
+      "subtitle": "Firmeza en muslos y glúteos",
+      "durationMinutes": 16,
+      "restSecBetweenExercises": 20,
+      "focus": "Glúteos y piernas",
+      "exerciseIds": ["ex_wall_sit_gentle", "ex_wall_leg_lift", "ex_wall_calf_press", "ex_stretch_hamstring_chair"]
+    },
+    {
+      "dayNumber": 13,
+      "title": "Día 13: Caminata Quemagrasa Amable",
+      "subtitle": "Ritmo constante que despierta la energía",
+      "durationMinutes": 15,
+      "restSecBetweenExercises": 15,
+      "focus": "Vitalidad y quema sostenida",
+      "exerciseIds": ["ex_walk_rhythm", "ex_walk_arm_pump", "ex_walk_step_touch", "ex_stretch_cat_cow_wall"]
+    },
+    {
+      "dayNumber": 14,
+      "title": "Día 14: Regeneración y Balance Postural",
+      "subtitle": "Completas dos semanas de logros y ligereza",
+      "durationMinutes": 14,
+      "restSecBetweenExercises": 15,
+      "focus": "Movilidad de columna",
+      "exerciseIds": ["ex_wall_angel", "ex_chair_torso_twist", "ex_stretch_chest_opener", "ex_stretch_hamstring_chair"]
+    },
+    {
+      "dayNumber": 15,
+      "title": "Día 15: Entrada a la Fase 3 - Estilización",
+      "subtitle": "Líneas corporales más alargadas y estilizadas",
+      "durationMinutes": 16,
+      "restSecBetweenExercises": 15,
+      "focus": "Postura y tonicidad",
+      "exerciseIds": ["ex_wall_pelvic_tilt", "ex_wall_pushup", "ex_walk_rhythm", "ex_stretch_cat_cow_wall"]
+    },
+    {
+      "dayNumber": 16,
+      "title": "Día 16: Abdomen Plano con la Pared",
+      "subtitle": "Técnica hipopresiva suave y respiración",
+      "durationMinutes": 15,
+      "restSecBetweenExercises": 15,
+      "focus": "Cintura y abdomen",
+      "exerciseIds": ["ex_wall_pelvic_tilt", "ex_chair_core_tuck", "ex_chair_torso_twist", "ex_stretch_chest_opener"]
+    },
+    {
+      "dayNumber": 17,
+      "title": "Día 17: Caminata Energizante",
+      "subtitle": "15 minutos que renuevan tu día",
+      "durationMinutes": 15,
+      "restSecBetweenExercises": 15,
+      "focus": "Cardio suave",
+      "exerciseIds": ["ex_walk_step_touch", "ex_walk_arm_pump", "ex_wall_calf_press", "ex_stretch_hamstring_chair"]
+    },
+    {
+      "dayNumber": 18,
+      "title": "Día 18: Fortalecimiento de Espalda Alta",
+      "subtitle": "Dile adiós al encorvamiento",
+      "durationMinutes": 15,
+      "restSecBetweenExercises": 15,
+      "focus": "Dorsales y cuello",
+      "exerciseIds": ["ex_wall_angel", "ex_chair_arm_circles", "ex_wall_pushup", "ex_stretch_chest_opener"]
+    },
+    {
+      "dayNumber": 19,
+      "title": "Día 19: Glúteos y Caderas con Soporte",
+      "subtitle": "Estabilidad pélvica para aliviar lumbares",
+      "durationMinutes": 16,
+      "restSecBetweenExercises": 20,
+      "focus": "Caderas y glúteos",
+      "exerciseIds": ["ex_wall_leg_lift", "ex_wall_sit_gentle", "ex_wall_calf_press", "ex_stretch_hamstring_chair"]
+    },
+    {
+      "dayNumber": 20,
+      "title": "Día 20: Caminata de Fluidez",
+      "subtitle": "Movimiento continuo y relajante",
+      "durationMinutes": 15,
+      "restSecBetweenExercises": 15,
+      "focus": "Movilidad global",
+      "exerciseIds": ["ex_walk_rhythm", "ex_walk_step_touch", "ex_chair_arm_circles", "ex_stretch_cat_cow_wall"]
+    },
+    {
+      "dayNumber": 21,
+      "title": "Día 21: El Hábito ya es Tuyo",
+      "subtitle": "¡3 semanas seguidas cuidando de ti!",
+      "durationMinutes": 14,
+      "restSecBetweenExercises": 15,
+      "focus": "Recuperación y logro",
+      "exerciseIds": ["ex_wall_angel", "ex_stretch_chest_opener", "ex_chair_torso_twist", "ex_stretch_hamstring_chair"]
+    },
+    {
+      "dayNumber": 22,
+      "title": "Día 22: Fase 4 - Consolidación Total",
+      "subtitle": "Tu cuerpo ya responde con mayor fuerza y agilidad",
+      "durationMinutes": 16,
+      "restSecBetweenExercises": 15,
+      "focus": "Fuerza integral",
+      "exerciseIds": ["ex_walk_arm_pump", "ex_wall_pushup", "ex_wall_sit_gentle", "ex_stretch_cat_cow_wall"]
+    },
+    {
+      "dayNumber": 23,
+      "title": "Día 23: Core y Cintura Esculpida",
+      "subtitle": "Tonificación precisa sin impacto",
+      "durationMinutes": 15,
+      "restSecBetweenExercises": 15,
+      "focus": "Zona media",
+      "exerciseIds": ["ex_chair_core_tuck", "ex_wall_pelvic_tilt", "ex_chair_torso_twist", "ex_stretch_chest_opener"]
+    },
+    {
+      "dayNumber": 24,
+      "title": "Día 24: Pasos de Potencia y Agilidad",
+      "subtitle": "Caminata dinámica para estimular el corazón",
+      "durationMinutes": 16,
+      "restSecBetweenExercises": 15,
+      "focus": "Cardio saludable",
+      "exerciseIds": ["ex_walk_rhythm", "ex_walk_step_touch", "ex_wall_calf_press", "ex_stretch_hamstring_chair"]
+    },
+    {
+      "dayNumber": 25,
+      "title": "Día 25: Brazos Esculpidos en la Pared",
+      "subtitle": "Fuerza funcional para tu día a día",
+      "durationMinutes": 15,
+      "restSecBetweenExercises": 15,
+      "focus": "Brazos y pecho",
+      "exerciseIds": ["ex_wall_pushup", "ex_chair_arm_circles", "ex_wall_angel", "ex_stretch_cat_cow_wall"]
+    },
+    {
+      "dayNumber": 26,
+      "title": "Día 26: Piernas Fuertes y Articulaciones Protegidas",
+      "subtitle": "Fuerza en cuádriceps que alivia rodillas",
+      "durationMinutes": 16,
+      "restSecBetweenExercises": 20,
+      "focus": "Tren inferior",
+      "exerciseIds": ["ex_wall_sit_gentle", "ex_wall_leg_lift", "ex_walk_rhythm", "ex_stretch_hamstring_chair"]
+    },
+    {
+      "dayNumber": 27,
+      "title": "Día 27: Caminata de Celebración",
+      "subtitle": "A un solo paso de graduarte de tu reto de 28 días",
+      "durationMinutes": 15,
+      "restSecBetweenExercises": 15,
+      "focus": "Energía y alegría",
+      "exerciseIds": ["ex_walk_step_touch", "ex_walk_arm_pump", "ex_wall_angel", "ex_stretch_chest_opener"]
+    },
+    {
+      "dayNumber": 28,
+      "title": "Día 28: ¡Reto Completado! Tu Nuevo Estilo de Vida",
+      "subtitle": "28 días de constancia, salud y bienestar recuperado",
+      "durationMinutes": 15,
+      "restSecBetweenExercises": 10,
+      "focus": "Celebración y postura radiante",
+      "exerciseIds": [
+        "ex_wall_pelvic_tilt",
+        "ex_wall_pushup",
+        "ex_wall_angel",
+        "ex_stretch_chest_opener",
+        "ex_stretch_cat_cow_wall"
+      ],
+      "coachTip": "¡Lo lograste! Has construido un hábito que te acompañará para siempre. Tu cuerpo está más ligero, fuerte y lleno de vida."
+    }
+  ]
+}

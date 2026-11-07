@@ -1,0 +1,156 @@
+{
+  "title": "Plan de Comidas Antiinflamatorio para Mujeres 35+",
+  "description": "Recetas latinas familiares, fáciles de preparar, sin pasar hambre y pensadas para regular el metabolismo y aliviar la inflamación articular.",
+  "weekDays": [
+    {
+      "day": 1,
+      "dayName": "Lunes",
+      "breakfast": {
+        "title": "Tostada de aguacate con huevo y semillas de chía",
+        "prepTime": "10 min",
+        "caloriesApprox": 320,
+        "isDetailed": true,
+        "ingredients": [
+          "1 rebanada de pan integral o de masa madre",
+          "1/2 aguacate maduro",
+          "1 huevo revuelto o pochado",
+          "1 cucharadita de semillas de chía",
+          "Pizca de sal marina y gotas de limón"
+        ],
+        "instructions": [
+          "Tuesta el pan hasta que quede crujiente.",
+          "Muele el aguacate con un tenedor junto con unas gotas de limón y sal marina.",
+          "Cocina el huevo en sartén antiadherente con una gota de aceite de oliva.",
+          "Unta el aguacate sobre la tostada, coloca el huevo encima y espolvorea las semillas de chía."
+        ]
+      },
+      "lunch": {
+        "title": "Bowl latino de pollo a la plancha con quinoa y pico de gallo",
+        "prepTime": "20 min",
+        "caloriesApprox": 480,
+        "isDetailed": true,
+        "ingredients": [
+          "120g de pechuga de pollo marinada con ajo y limón",
+          "1/2 taza de quinoa cocida",
+          "1/3 taza de frijoles negros escurridos",
+          "Tomate, cebolla morada y cilantro picado (pico de gallo)",
+          "1 cucharadita de aceite de oliva virgen extra"
+        ],
+        "instructions": [
+          "Dora la pechuga de pollo en una sartén caliente 4 minutos por lado hasta que quede jugosa.",
+          "En un tazón, sirve la base de quinoa y frijoles negros templados.",
+          "Corta el pollo en tiras y colócalo al lado.",
+          "Agrega el pico de gallo fresco y corona con un toque de limón y aceite de oliva."
+        ]
+      },
+      "snack": {
+        "title": "Yogur griego con frutos rojos y nueces",
+        "prepTime": "3 min",
+        "caloriesApprox": 180,
+        "ingredients": ["1/2 taza de yogur griego sin azúcar", "Un puñado de moras o fresas", "4 mitades de nuez picadas"]
+      },
+      "dinner": {
+        "title": "Filete de pescado empapelado con verduras aromáticas",
+        "prepTime": "25 min",
+        "caloriesApprox": 360,
+        "isDetailed": true,
+        "ingredients": [
+          "1 filete de pescado blanco (tilapia, lubina o merluza)",
+          "1/2 calabacita (zucchini) en rodajas delgadas",
+          "1/2 zanahoria rallada",
+          "Unas ramas de eneldo o perejil fresco",
+          "1 cucharadita de aceite de oliva y rodajas de limón"
+        ],
+        "instructions": [
+          "Coloca una hoja de papel manteca o aluminio sobre la bandeja.",
+          "Haz una cama con las rodajas de calabacita y zanahoria.",
+          "Coloca el filete encima, sazona con sal marina, eneldo, aceite de oliva y limón.",
+          "Cierra el paquete doblando los bordes para sellar el vapor.",
+          "Hornea o cocina a la sartén tapada durante 15 minutos."
+        ]
+      }
+    },
+    {
+      "day": 2,
+      "dayName": "Martes",
+      "breakfast": { "title": "Avena cocida con canela, manzana picada y almendras", "prepTime": "12 min", "caloriesApprox": 310 },
+      "lunch": { "title": "Pechuga al cilantro con arroz integral y ensalada de hojas verdes", "prepTime": "20 min", "caloriesApprox": 460 },
+      "snack": { "title": "Manzana en rodajas con 1 cucharadita de crema de cacahuate natural", "prepTime": "3 min", "caloriesApprox": 160 },
+      "dinner": { "title": "Sopa reconfortante de verduras con pollo desmenuzado y calabaza", "prepTime": "25 min", "caloriesApprox": 340 }
+    },
+    {
+      "day": 3,
+      "dayName": "Miércoles",
+      "breakfast": { "title": "Omelette de claras y espinacas con rebanada de pan de semillas", "prepTime": "10 min", "caloriesApprox": 290 },
+      "lunch": { "title": "Salmón a la plancha con puré de camote (batata) y brócoli al vapor", "prepTime": "22 min", "caloriesApprox": 510 },
+      "snack": { "title": "Batido verde ligero (espinaca, pepino, limón y manzana verde)", "prepTime": "5 min", "caloriesApprox": 120 },
+      "dinner": { "title": "Tacos en hojas de lechuga con carne magra molida y aguacate", "prepTime": "18 min", "caloriesApprox": 370 }
+    },
+    {
+      "day": 4,
+      "dayName": "Jueves",
+      "breakfast": { "title": "Pudin de chía con leche vegetal y mango picado", "prepTime": "5 min (la noche previa)", "caloriesApprox": 280 },
+      "lunch": { "title": "Fajitas de pollo con pimientos de colores y guacamole casero", "prepTime": "20 min", "caloriesApprox": 470 },
+      "snack": { "title": "Un puñado de almendras tostadas y té verde o infusión", "prepTime": "2 min", "caloriesApprox": 150 },
+      "dinner": { "title": "Crema suave de calabacín con semillas de calabaza tostadas", "prepTime": "20 min", "caloriesApprox": 310 }
+    },
+    {
+      "day": 5,
+      "dayName": "Viernes",
+      "breakfast": { "title": "Huevos a la mexicana con 1 tortilla de maíz caliente", "prepTime": "12 min", "caloriesApprox": 320 },
+      "lunch": { "title": "Ensalada tibia de lentejas con atún, pimiento asado y aceite de oliva", "prepTime": "15 min", "caloriesApprox": 450 },
+      "snack": { "title": "Queso fresco bajo en grasa con rebanadas de pepino", "prepTime": "3 min", "caloriesApprox": 130 },
+      "dinner": { "title": "Brochetas de pollo y vegetales al horno con ensalada mixta", "prepTime": "25 min", "caloriesApprox": 380 }
+    },
+    {
+      "day": 6,
+      "dayName": "Sábado",
+      "breakfast": { "title": "Hotcakes de avena y plátano con miel de agave y fresas", "prepTime": "15 min", "caloriesApprox": 340 },
+      "lunch": { "title": "Ceviche fresco de pescado con aguacate y tostadas de maíz horneadas", "prepTime": "20 min", "caloriesApprox": 420 },
+      "snack": { "title": "Fresas frescas con cacao puro rallado", "prepTime": "3 min", "caloriesApprox": 110 },
+      "dinner": { "title": "Wrap integral de pavo con espinacas y aderezo de yogur", "prepTime": "10 min", "caloriesApprox": 330 }
+    },
+    {
+      "day": 7,
+      "dayName": "Domingo",
+      "breakfast": { "title": "Cazuela de huevos al horno con tomate triturado y orégano", "prepTime": "18 min", "caloriesApprox": 310 },
+      "lunch": { "title": "Carne asada magra con ensalada de nopales/nopales o pimientos y frijoles de la olla", "prepTime": "25 min", "caloriesApprox": 490 },
+      "snack": { "title": "Infusión relajante de manzanilla con 2 galletas de avena caseras", "prepTime": "5 min", "caloriesApprox": 140 },
+      "dinner": { "title": "Caldo suave de pollo con verduras para cerrar la semana y preparar el descanso", "prepTime": "20 min", "caloriesApprox": 290 }
+    }
+  ],
+  "groceryList": [
+    {
+      "category": "Frutas y Verduras",
+      "items": [
+        "Aguacates maduros (3 unidades)",
+        "Espinacas frescas y lechugas mixtas",
+        "Tomates rojos y cebolla morada",
+        "Calabacitas (zucchini) y zanahorias",
+        "Limones amarillos o verdes",
+        "Manzanas, fresas o frutos rojos"
+      ]
+    },
+    {
+      "category": "Proteínas y Huevos",
+      "items": [
+        "Huevos frescos de campo (1 docena)",
+        "Pechugas de pollo orgánicas (600g)",
+        "Filetes de pescado blanco o salmón (4 unidades)",
+        "Carne magra molida (350g)",
+        "Yogur griego natural sin azúcar"
+      ]
+    },
+    {
+      "category": "Despensa y Semillas",
+      "items": [
+        "Pan integral de masa madre",
+        "Quinoa y arroz integral",
+        "Frijoles negros cocidos o secos",
+        "Semillas de chía y semillas de calabaza",
+        "Nueces y almendras crudas",
+        "Aceite de oliva virgen extra y sal marina"
+      ]
+    }
+  ]
+}

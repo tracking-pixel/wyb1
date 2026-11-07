@@ -1,0 +1,226 @@
+[
+  {
+    "id": "ex_walk_rhythm",
+    "title": "Caminata rítmica en el lugar",
+    "category": "walking",
+    "level": "Principiante",
+    "durationSec": 45,
+    "targetZones": ["legs", "cardio"],
+    "instructions": "Eleva suavemente las rodillas manteniendo el abdomen activo y la postura erguida. Balancea los brazos con fluidez.",
+    "alternative": {
+      "limitation": "knees",
+      "title": "Paso suave sin elevación de rodilla",
+      "instructions": "Mantén los pies cerca del piso y enfócate en el ritmo respiratorio sin impacto articular."
+    }
+  },
+  {
+    "id": "ex_wall_pelvic_tilt",
+    "title": "Báscula pélvica contra la pared",
+    "category": "wall_pilates",
+    "level": "Principiante",
+    "durationSec": 50,
+    "targetZones": ["abdomen", "back"],
+    "instructions": "Apoya la espalda plana contra la pared con rodillas ligeramente flexionadas. Inhala y al exhalar presiona la zona lumbar contra la pared activando el transverso del abdomen.",
+    "alternative": {
+      "limitation": "back",
+      "title": "Báscula en silla con soporte",
+      "instructions": "Realiza la báscula sentada erguida con las manos en las rodillas para menor tensión lumbar."
+    }
+  },
+  {
+    "id": "ex_wall_sit_gentle",
+    "title": "Sentadilla mural isométrica suave",
+    "category": "wall_pilates",
+    "level": "Principiante",
+    "durationSec": 40,
+    "targetZones": ["legs", "glutes"],
+    "instructions": "Desliza la espalda por la pared hasta una inclinación cómoda (ángulo no mayor a 45 grados). Mantén el peso en los talones.",
+    "alternative": {
+      "limitation": "knees",
+      "title": "Soporte de pared alto sin flexión profunda",
+      "instructions": "Desciende solo 5 a 10 cm manteniendo las rodillas alineadas con los tobillos."
+    }
+  },
+  {
+    "id": "ex_wall_pushup",
+    "title": "Flexiones de brazos en la pared",
+    "category": "wall_pilates",
+    "level": "Principiante",
+    "durationSec": 45,
+    "targetZones": ["arms", "chest", "posture"],
+    "instructions": "Coloca las palmas a la altura del pecho separadas al ancho de los hombros. Flexiona los codos manteniendo el cuerpo en una sola línea.",
+    "alternative": {
+      "limitation": "wrists",
+      "title": "Empuje de pared con antebrazos",
+      "instructions": "Apoya los antebrazos completos en la pared para liberar la articulación de la muñeca."
+    }
+  },
+  {
+    "id": "ex_wall_leg_lift",
+    "title": "Elevación lateral de pierna con apoyo mural",
+    "category": "wall_pilates",
+    "level": "Principiante",
+    "durationSec": 45,
+    "targetZones": ["glutes", "legs"],
+    "instructions": "De pie de lado a la pared con una mano de apoyo. Eleva la pierna externa controladamente sin inclinar el torso.",
+    "alternative": {
+      "limitation": "back",
+      "title": "Elevación lateral sentada en silla",
+      "instructions": "Extiende la pierna hacia el lateral desde la silla manteniendo el tronco firme."
+    }
+  },
+  {
+    "id": "ex_chair_core_tuck",
+    "title": "Recogimiento de core en silla",
+    "category": "chair_pilates",
+    "level": "Principiante",
+    "durationSec": 45,
+    "targetZones": ["abdomen"],
+    "instructions": "Siéntate en el borde de la silla con la espalda recta. Sujeta los laterales del asiento y eleva alternadamente cada rodilla contrayendo el vientre.",
+    "alternative": {
+      "limitation": "back",
+      "title": "Contracción sentada con pies en suelo",
+      "instructions": "Exhala y presiona los talones contra el suelo mientras contraes el ombligo hacia la columna."
+    }
+  },
+  {
+    "id": "ex_chair_arm_circles",
+    "title": "Círculos de brazos para postura",
+    "category": "chair_pilates",
+    "level": "Principiante",
+    "durationSec": 40,
+    "targetZones": ["arms", "neck_shoulders"],
+    "instructions": "Brazos extendidos a los lados en cruz. Realiza pequeños círculos controlados alejando los hombros de las orejas.",
+    "alternative": {
+      "limitation": "neck_shoulders",
+      "title": "Círculos bajos con codos flexionados",
+      "instructions": "Flexiona los codos a 90 grados cerca del torso y rota suavemente los omóplatos."
+    }
+  },
+  {
+    "id": "ex_walk_step_touch",
+    "title": "Paso toque lateral con respiración",
+    "category": "walking",
+    "level": "Principiante",
+    "durationSec": 50,
+    "targetZones": ["legs", "cardio"],
+    "instructions": "Da un paso lateral amplio a la derecha y junta el pie izquierdo, repitiendo hacia la izquierda. Sincroniza con inhalaciones profundas.",
+    "alternative": {
+      "limitation": "knees",
+      "title": "Paso toque estrecho sin balanceo brusco",
+      "instructions": "Pasos más cortos manteniendo los pies planos en el suelo."
+    }
+  },
+  {
+    "id": "ex_wall_calf_press",
+    "title": "Elevación de talones con apoyo en pared",
+    "category": "wall_pilates",
+    "level": "Principiante",
+    "durationSec": 45,
+    "targetZones": ["legs"],
+    "instructions": "Ambas manos en la pared. Eleva los talones activando gemelos y tobillos, desciende lentamente sin dejar caer el peso.",
+    "alternative": {
+      "limitation": "knees",
+      "title": "Flexión de tobillos sentada",
+      "instructions": "Realiza el bombeo de pantorrillas sentada en la silla para favorecer la circulación."
+    }
+  },
+  {
+    "id": "ex_wall_angel",
+    "title": "Ángeles de pared para descompresión dorsal",
+    "category": "wall_pilates",
+    "level": "Principiante",
+    "durationSec": 50,
+    "targetZones": ["back", "neck_shoulders"],
+    "instructions": "Apoya sacro, espalda media y cabeza en la pared. Desliza los brazos en forma de 'W' hacia arriba abriendo el pecho.",
+    "alternative": {
+      "limitation": "neck_shoulders",
+      "title": "Apertura de pecho con manos en costillas",
+      "instructions": "Inhala abriendo los codos hacia atrás sin forzar la elevación de los brazos."
+    }
+  },
+  {
+    "id": "ex_chair_torso_twist",
+    "title": "Torsión suave de columna en silla",
+    "category": "chair_pilates",
+    "level": "Principiante",
+    "durationSec": 45,
+    "targetZones": ["abdomen", "back"],
+    "instructions": "Siéntate erguida, cruza los brazos sobre el pecho y gira suavemente el torso hacia la derecha, regresa al centro y gira a la izquierda.",
+    "alternative": {
+      "limitation": "back",
+      "title": "Micro-rotación con mirada al frente",
+      "instructions": "Giro mínimo de apenas 15 grados sintiendo la activación de los oblicuos sin forzar."
+    }
+  },
+  {
+    "id": "ex_wall_glute_bridge",
+    "title": "Puente de glúteos con pies en la pared",
+    "category": "wall_pilates",
+    "level": "Principiante",
+    "durationSec": 45,
+    "targetZones": ["glutes", "abdomen"],
+    "instructions": "Acostada en la esterilla, apoya los pies en la pared a 90 grados. Eleva la pelvis vértebra a vértebra apretando glúteos.",
+    "alternative": {
+      "limitation": "back",
+      "title": "Activación isométrica de glúteos de pie",
+      "instructions": "De pie apoyada en la pared, contrae glúteos durante 5 segundos y relaja."
+    }
+  },
+  {
+    "id": "ex_stretch_chest_opener",
+    "title": "Estiramiento y apertura pectoral en marco o pared",
+    "category": "stretching",
+    "level": "Todos",
+    "durationSec": 40,
+    "targetZones": ["chest", "neck_shoulders"],
+    "instructions": "Apoya el antebrazo en la pared o marco de puerta y da un paso adelante para estirar suavemente el pecho.",
+    "alternative": {
+      "limitation": "neck_shoulders",
+      "title": "Respiración torácica con hombros relajados",
+      "instructions": "Lleva los hombros atrás y abajo suavemente con respiraciones lentas."
+    }
+  },
+  {
+    "id": "ex_stretch_hamstring_chair",
+    "title": "Estiramiento isquiotibial en silla",
+    "category": "stretching",
+    "level": "Todos",
+    "durationSec": 45,
+    "targetZones": ["legs", "back"],
+    "instructions": "Sentada en el borde, extiende una pierna con el talón apoyado. Inclínate desde las caderas manteniendo la espalda recta.",
+    "alternative": {
+      "limitation": "back",
+      "title": "Flexión suave sin inclinación extrema",
+      "instructions": "Mantén la mirada al frente sin redondear la zona lumbar."
+    }
+  },
+  {
+    "id": "ex_walk_arm_pump",
+    "title": "Caminata de activación con bombeo de brazos",
+    "category": "walking",
+    "level": "Principiante",
+    "durationSec": 50,
+    "targetZones": ["arms", "legs", "cardio"],
+    "instructions": "Marcha a paso constante mientras extiendes y recoges los brazos hacia el frente activando la circulación.",
+    "alternative": {
+      "limitation": "knees",
+      "title": "Marcha suave en alfombra",
+      "instructions": "Reduce la velocidad del paso y concéntrate en el estiramiento de los brazos."
+    }
+  },
+  {
+    "id": "ex_stretch_cat_cow_wall",
+    "title": "Gato-Vaca de pie con apoyo mural",
+    "category": "stretching",
+    "level": "Todos",
+    "durationSec": 50,
+    "targetZones": ["back", "abdomen"],
+    "instructions": "Manos en la pared a la altura de los hombros. Inhala arqueando suavemente la espalda y exhala redondeando y mirando al ombligo.",
+    "alternative": {
+      "limitation": "back",
+      "title": "Respiración intercostal sin arquear",
+      "instructions": "Enfócate en expandir la caja torácica sin flexión lumbar."
+    }
+  }
+]

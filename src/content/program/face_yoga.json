@@ -1,0 +1,111 @@
+{
+  "title": "Yoga Facial y Drenaje Linfático 21 Días",
+  "subtitle": "5 minutos al día frente al espejo para oxigenar, iluminar y tonificar los músculos del rostro",
+  "routines": [
+    {
+      "day": 1,
+      "title": "Drenaje Linfático y Desinflamación Matutina",
+      "targetArea": "Rostro completo y cuello",
+      "durationMinutes": 5,
+      "isDetailed": true,
+      "steps": [
+        {
+          "name": "Apertura de ganglios claviculares",
+          "seconds": 60,
+          "instruction": "Coloca los dedos índice y medio sobre la cavidad encima de las clavículas. Presiona suavemente y bombea con ritmo suave 20 veces mientras respiras hondo."
+        },
+        {
+          "name": "Barrer mejillas hacia las orejas",
+          "seconds": 90,
+          "instruction": "Con las palmas o nudillos planos, desliza con suavidad desde las aletas de la nariz hacia las sienes y orejas, sin jalar la piel."
+        },
+        {
+          "name": "Drenaje hacia el cuello",
+          "seconds": 90,
+          "instruction": "Desde detrás de las orejas, desliza las manos por los costados del cuello hasta llegar a las clavículas para drenar el líquido retenido."
+        },
+        {
+          "name": "Tapping de relajación con yemas",
+          "seconds": 60,
+          "instruction": "Da suaves golpecitos como gotas de lluvia por toda la cara para despertar la microcirculación."
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Definición de Mandíbula y Cuello Estilizado",
+      "targetArea": "Óvalo facial y papada",
+      "durationMinutes": 5,
+      "isDetailed": true,
+      "steps": [
+        {
+          "name": "La Tijera en la mandíbula",
+          "seconds": 90,
+          "instruction": "Dobla los dedos índice y medio en forma de tijera. Desliza desde la barbilla a lo largo del hueso mandibular hacia el lóbulo de la oreja 15 veces por lado."
+        },
+        {
+          "name": "Beso al techo para estirar cuello",
+          "seconds": 90,
+          "instruction": "Inclina suavemente la cabeza hacia atrás mirando al techo. Frunce los labios como lanzando un beso prolongado sintiendo el estiramiento en la garganta."
+        },
+        {
+          "name": "Resistencia de lengua en paladar",
+          "seconds": 60,
+          "instruction": "Pega toda la superficie de la lengua contra el paladar y sonríe ligeramente manteniendo 10 segundos, relaja y repite."
+        },
+        {
+          "name": "Alisado descendente con dorso de manos",
+          "seconds": 60,
+          "instruction": "Con el dorso de las manos, acaricia alternadamente la zona bajo la barbilla hacia el esternón."
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Suavizado de Frente y Ceño Despejado",
+      "targetArea": "Frente y entrecejo",
+      "durationMinutes": 5,
+      "isDetailed": true,
+      "steps": [
+        {
+          "name": "Borrar el entrecejo con pulgares",
+          "seconds": 90,
+          "instruction": "Coloca los pulgares entre las cejas y desliza suavemente hacia arriba y hacia afuera hacia el nacimiento del cabello."
+        },
+        {
+          "name": "Zig-zag alisador en la frente",
+          "seconds": 90,
+          "instruction": "Con las yemas de ambas manos, realiza movimientos horizontales en zig-zag desde el centro de la frente hacia las sienes."
+        },
+        {
+          "name": "Apertura de mirada sin fruncir",
+          "seconds": 60,
+          "instruction": "Coloca las manos en la frente para inmovilizarla. Abre los ojos ampliamente durante 5 segundos y parpadea con suavidad."
+        },
+        {
+          "name": "Presión relajante en sienes",
+          "seconds": 60,
+          "instruction": "Dibuja círculos lentos en las sienes cerrando los ojos para liberar el estrés acumulado del día."
+        }
+      ]
+    },
+    { "day": 4, "title": "Pómulos Altos y Sonrisa Natural", "targetArea": "Pómulos y mejillas", "durationMinutes": 5 },
+    { "day": 5, "title": "Mirada Descansada y Ojeras Descongestionadas", "targetArea": "Contorno de ojos", "durationMinutes": 5 },
+    { "day": 6, "title": "Lifting Facial Completo Sin Cirugía", "targetArea": "Todo el rostro", "durationMinutes": 5 },
+    { "day": 7, "title": "Masaje Desestresante Nocturno", "targetArea": "Mandíbula y sienes", "durationMinutes": 5 },
+    { "day": 8, "title": "Reafirmación de Cuello y Escote", "targetArea": "Cuello y pecho", "durationMinutes": 5 },
+    { "day": 9, "title": "Suavizado del Surco Nasogeniano", "targetArea": "Líneas de la sonrisa", "durationMinutes": 5 },
+    { "day": 10, "title": "Drenaje Linfático Express", "targetArea": "Rostro y cuello", "durationMinutes": 5 },
+    { "day": 11, "title": "Alineación y Tonificación del Óvalo Facial", "targetArea": "Mandíbula", "durationMinutes": 5 },
+    { "day": 12, "title": "Elevación de Párpados Caídos", "targetArea": "Ojos y cejas", "durationMinutes": 5 },
+    { "day": 13, "title": "Brazos Arriba y Postura que Ilumina la Cara", "targetArea": "Fascia corporal y cara", "durationMinutes": 5 },
+    { "day": 14, "title": "Check-in Facial: Dos Semanas de Luminosidad", "targetArea": "Todo el rostro", "durationMinutes": 5 },
+    { "day": 15, "title": "Técnica de Cuchara Fría para Contorno", "targetArea": "Ojeras y pómulos", "durationMinutes": 5 },
+    { "day": 16, "title": "Liberación del Bruxismo y Tensión Dental", "targetArea": "Músculos maseteros", "durationMinutes": 5 },
+    { "day": 17, "title": "Suavizado de Labios y Código de Barras", "targetArea": "Contorno labial", "durationMinutes": 5 },
+    { "day": 18, "title": "Circulación y Brillo Natural 'Glow'", "targetArea": "Mejillas y frente", "durationMinutes": 5 },
+    { "day": 19, "title": "Esculpir Pómulos con Nudillos", "targetArea": "Pómulos medios", "durationMinutes": 5 },
+    { "day": 20, "title": "Drenaje Post-Vuelo o Salitre", "targetArea": "Rostro hinchado", "durationMinutes": 5 },
+    { "day": 21, "title": "Rostro Radiante: Tu Rutina de Belleza Diaria", "targetArea": "Completo", "durationMinutes": 5 }
+  ]
+}
